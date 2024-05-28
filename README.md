@@ -1,4 +1,5 @@
-# VRFlightSim
+<h1 align="center">VRFlightSim</h1>
+<h2>IROS 2022: Towards Reproducible Evaluations for Flying Drone Controllers in Virtual Environments</h2>
 <p align="center">
     GUI for Human-drone interaction experiment based on Airsim, support weather adjustment, velocity and angle data visualization.
     <br>
